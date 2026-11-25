@@ -1,4 +1,4 @@
-# salary-predictor
+# Salary Predictor
 
 You have been offered a job! But how much should you get paid?
 
